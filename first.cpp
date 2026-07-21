@@ -1,3 +1,4 @@
+//F1 - Elections in Saransk (easy version)-2236F1
 #include <bits/stdc++.h>
 using namespace std;
 
