@@ -1,3 +1,4 @@
+//Palindrome , Twelve and two terms-2234B
 #include <bits/stdc++.h>
 using namespace std;
 
